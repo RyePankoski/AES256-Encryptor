@@ -49,7 +49,7 @@ def get_blocks(array, block_size, purpose, row_or_block):
     block = []
     index = 0
     for i in range(len(array)):
-        block.append(array[i])  # ← Remove the brackets here
+        block.append(array[i])  
         index += 1
         if index == block_size:
             blocks.append(block)
