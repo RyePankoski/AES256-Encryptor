@@ -176,3 +176,5 @@ class Encryptor:
         print(f"Encrypted result: {result_text}")
 
         sys.exit(0)
+
+
