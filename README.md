@@ -43,6 +43,3 @@ Understanding core AES concepts:
 - Diffusion and confusion principles
 - Block cipher operations
 
----
-
-**Note**: This is an educational implementation. For production use, use established libraries like `cryptography` or `pycryptodome`.
