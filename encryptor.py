@@ -108,7 +108,7 @@ def mix_columns(blocks):
 class Encryptor:
     def __init__(self):
         # self.plaintext = create_plaintext(31)
-        self.plaintext = "Hello claude, thank you for helping me build this. I now understand AES256"
+        self.plaintext = "Hello World"
         self.text_set = True
         self.key = 1234
         self.key_len = 32
